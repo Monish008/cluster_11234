@@ -2,5 +2,6 @@
 struct node 
 {
  x=int()malloc((sizeof())
- }
+ } done
+ 
  
